@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BookLibrary.BookLibraryAid.main" target="1.8" />
+      <module name="BookLibrary.BookLibraryAid.test" target="1.8" />
+      <module name="com..BookLibraryAid.main" target="1.8" />
+      <module name="com..BookLibraryAid.test" target="1.8" />
+      <module name="com.L.BookLibraryAid.main" target="1.8" />
+      <module name="com.L.BookLibraryAid.test" target="1.8" />
+      <module name="com.Library.BookLibraryAid.main" target="1.8" />
+      <module name="com.Library.BookLibraryAid.test" target="1.8" />
+      <module name="com.tutorialspoint.BookLibraryAid.main" target="1.8" />
+      <module name="com.tutorialspoint.BookLibraryAid.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
